@@ -254,5 +254,31 @@ body {
 .top3_btc {
     width: 276px;
     height: 74px;
-    background-color: #32228A;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.top3_p3_icon {
+    display: flex;
+    width: 323px;
+}
+.top3_p3 {
+    font-size: 28px;
+    font-weight: 500;
+    line-height: calc(36 / 28 * 100%);
+    color: #333333;
+}
+.top3_img_poligon {
+    height: 39px;
+    width: 76px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.top3_p4 {
+    font-size: 14px;
+    line-height: calc(18 / 14 * 100%);
+    font-weight: 500;
+    color: #828282;
 }
