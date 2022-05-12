@@ -287,4 +287,23 @@ body {
     background-image: url(../img/image.png);
     width: 674px;
     height: 450px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.top4_right_img_poligon_left {
+    height: 33px;
+    width: 33px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.top4_right_img_poligon_right {
+    height: 33px;
+    width: 33px;
+    background-color: #FFFFFF;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
