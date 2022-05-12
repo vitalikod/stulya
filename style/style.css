@@ -282,3 +282,9 @@ body {
     font-weight: 500;
     color: #828282;
 }
+/* ---------------------------------top4------------------------------------------------------ */
+.top4_right_img {
+    background-image: url(../img/image.png);
+    width: 674px;
+    height: 450px;
+}
